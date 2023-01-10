@@ -7,16 +7,16 @@ tags: blog gatsby theme 개츠비 테마
 categories: 블로그
 ---
 
-# 소개
+## 소개
 
 개츠비 + github 배포를 통한 개발자 블로그 시작
 
-# 기본 goal
+## 기본 goal
 
 - theme / zoomkoding-gatsby-blog
 - github deploy
 
-# Todo List
+## Todo List
 
 - ~~github 배포 및 기본 세팅~~
 - 메타데이터 및 프로필 설정
@@ -25,3 +25,7 @@ categories: 블로그
 - SEO 검토
 - GA 연동 검토
 - 후기 및 방법 정리 후 글 작성
+
+
+```toc
+```
