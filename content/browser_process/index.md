@@ -4,7 +4,7 @@ title: 브라우저 동작 원리
 date: '2023-01-11 16:44'
 author: 김용범
 tags: blog gatsby theme 개츠비 테마
-categories: browser webkit gecko
+categories: browser
 ---
 
 ## 개요

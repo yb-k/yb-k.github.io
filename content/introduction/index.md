@@ -4,7 +4,7 @@ title: 개츠비 블로그 시작
 date: '2023-01-10 23:59:59'
 author: 김용범
 tags: blog gatsby theme 개츠비 테마
-categories: 블로그
+categories: blog
 ---
 
 ## 소개
