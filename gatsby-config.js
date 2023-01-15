@@ -71,6 +71,9 @@ module.exports = {
               maxWidth: 720,
               linkImagesToOriginal: false,
               backgroundColor: 'transparent',
+              showCaptions: true,
+              quality: 100,
+              wrapperStyle: `margin: 0 0;`,
             },
           },
           {
