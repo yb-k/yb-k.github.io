@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/Vue",
+    "result": {"pageContext":{"currentCategory":"Vue","categories":["All","nodejs","Vue","appium","JavaScript","browser","blog"],"edges":[{"node":{"id":"f10bf997-10da-540f-810f-3b13b7cc5d74","excerpt":"링크 아래의 링크를 통해 해당 레포지토리를 확인할 수 있습니다. yb-k/vue2-boilerplate 설명  보일러 플레이트입니다. 커스텀으로 확장 가능한 구조의 가 존재합니다. 폴더 구조 public : 정적 리소스 폴더로 이폴더에 있는 파일들은 그대로 됩니다. (브라우저 라이브러리 적용) src assets : 번들러를 통과하는 정적 리소스를 작성합니다. common : 공통 소스를 작성합니다. component.golbal.js : 전역 컴포넌트를 선언 / 관리 config : 앱 내 설정 관리 constatns : 상수 helpers : 헬퍼 함수 정의 components : 컴포넌트 파일 관리 common : 공통/전역/하위 레벨의 컴포넌트 관리 layouts : 레이아웃 컴포넌트 선언 (with ) middlewares : 미들웨어 관리 / 화면 이동 관련 modules : 모듈 관리 / SERVER API에 대응되는 store + component 관리 plugins…","fields":{"slug":"/vue2-boilerplate/"},"frontmatter":{"categories":"Vue","title":"Vue2 Boierplate","date":"January 15, 2023"}},"next":{"fields":{"slug":"/appium_basic/"}},"previous":{"fields":{"slug":"/simple-json-server/"}}}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
